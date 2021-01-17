@@ -4,6 +4,8 @@
 require_once('Models/Task.php');
 
 // データの受け取り
+
+// データベースに接続
 $title = $_POST['title'];
 $contents = $_POST['contents'];
 $currentTime = date("Y/m/d H:i:s");
