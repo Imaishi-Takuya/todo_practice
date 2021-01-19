@@ -3,8 +3,8 @@
 // ファイルの読み込み
 
 
-// データの取得
 
+// データの取得
 require_once('Models/Task.php');
 require_once('function.php');
 
